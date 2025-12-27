@@ -4,9 +4,9 @@ Una herramienta de desarrollo diseñada para visualizar y testear sitios web en 
 
 A diferencia de las herramientas de inspección estándar, este simulador respeta el espacio real del Viewport, permitiendo ver cómo las barras de navegación y de tareas afectan el diseño final.
 
-![Captura version desktop](./screenshots/cap1.png)
+![Captura version desktop](./assets/cap1.png)
 
-![Captura version Mobile](./screenshots/cap2.png)
+![Captura version Mobile](./assets/cap2.png)
 
 
 # 🚀 Características Principales
