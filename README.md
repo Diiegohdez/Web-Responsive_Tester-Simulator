@@ -4,6 +4,10 @@ Una herramienta de desarrollo diseñada para visualizar y testear sitios web en 
 
 A diferencia de las herramientas de inspección estándar, este simulador respeta el espacio real del Viewport, permitiendo ver cómo las barras de navegación y de tareas afectan el diseño final.
 
+![Captura version desktop](./screenshots/cap1.png)
+
+![Captura version Mobile](./screenshots/cap2.png)
+
 
 # 🚀 Características Principales
 
@@ -33,7 +37,7 @@ A diferencia de las herramientas de inspección estándar, este simulador respet
 
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git](https://github.com/TU_USUARIO/NOMBRE_REPOSITORIO.git)
+    git clone [https://github.com/Diiegohdez/Web-Responsive_Tester-Simulator](https://github.com/Diiegohdez/Web-Responsive_Tester-Simulator)
     ```
 2.  Instala las dependencias:
     ```bash
@@ -44,3 +48,14 @@ A diferencia de las herramientas de inspección estándar, este simulador respet
     npm run dev
     ```
 4.  **Uso:** En la barra de búsqueda superior, ingresa la URL de tu proyecto local o en vivo (ej. `http://localhost:5174` o `https://tu-portafolio.com`).
+
+
+## 👤 Autor
+
+**Diego Hernández** *Desarrollador Frontend & QA Tester*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/diiego-hdez)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diiegohdez/)
+
+---
+Proyecto desarrollado con un enfoque en la precisión de pruebas de interfaz y experiencia de usuario (UX).
